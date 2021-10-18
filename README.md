@@ -12,4 +12,4 @@ This code tests whether or not you will be accepted to a random college. Using S
 The user will need python 3
 
 #### Contributions
-Editing this repository could look changing or adding variables in the program.
+Editing this repository could look like changing or adding variables in the program. It is a very simple program that serves as a foundation for a more complicated program
